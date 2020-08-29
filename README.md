@@ -15,3 +15,17 @@ and weights from https://drive.google.com/file/d/1-OqzVN8sdSzd1WEkRbIqIok0aiUuNy
 
 
 ![](traffic-sign-test.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+![](realtime-test.gif)

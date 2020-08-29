@@ -43,7 +43,7 @@ Few images that can be classified as other.
 
 
 
-<img src="mandatory.png" width="40%">
+<img src="other.png" width="40%">
 
 
 

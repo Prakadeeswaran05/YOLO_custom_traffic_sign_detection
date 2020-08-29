@@ -12,6 +12,7 @@ and weights from https://drive.google.com/file/d/1-OqzVN8sdSzd1WEkRbIqIok0aiUuNy
 
 
 ![](prohibitory.png=150*50)
+<img src="prohibitory.png" width="40%">
 
 
 ![](traffic-sign-test.gif)
